@@ -36,8 +36,8 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+During writing of this first version of this ToDoList app, I mostly just follow the guide and look up developer.android.com. 
+This simple app is a good start for setting up android enviornment and getting your hands dirty with Android development. 
 
 ## License
 
